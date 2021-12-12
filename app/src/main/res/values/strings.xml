@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alien Shooter</string>
+    <string name="empty"> </string>
+    <string name="i_have_to_fly">ALIEN SHOOTER</string>
+    <string name="play">PLAY!</string>
+    <string name="high_score">HIGH SCORE</string>
+    <string name="rule">Shoot down the aliens to save the human lifeforms in Earth! Do not let them get past you!</string>
+    <string name="settings"><u><b>Instructions to play the Game:-</b></u>\n1. Tap on the left side of the screen to Move the Spaceship\n2. Tap on the right side of the screen to Shoot a Bullet</string>
+</resources>
